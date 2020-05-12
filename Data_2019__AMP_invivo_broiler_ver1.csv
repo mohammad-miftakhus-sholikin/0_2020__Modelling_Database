@@ -3,16 +3,13 @@ study,author,year,broiler,peptide,treatment,level,bw,adg,dfi,fcr
 1,Bao et al.,2009,Arbor Acres,pig antimikrobial peptida (PABP),peptide,150,843.33,35.30,41.11,1.16
 1,Bao et al.,2009,Arbor Acres,pig antimikrobial peptida (PABP),peptide,200,868.32,36.48,41.29,1.13
 2,Ohh et al.,2009,ROSS 308,free,free,0,696.00,31.05,50.19,1.62
-2,Ohh et al.,2009,ROSS 308,agp,agp,10,763.00,34.24,53.14,1.55
 2,Ohh et al.,2009,ROSS 308,potato protein,peptide,2500,690.00,30.76,49.29,1.60
 2,Ohh et al.,2009,ROSS 308,potato protein,peptide,5000,747.00,33.48,53.29,1.59
 2,Ohh et al.,2009,ROSS 308,potato protein,peptide,7500,752.00,33.71,52.81,1.57
 3,Choi et al.,2013,ROSS 308,free,free,0,737.00,33.00,53.05,1.61
-3,Choi et al.,2013,ROSS 308,agp,agp,15,776.00,34.86,54.43,1.56
 3,Choi et al.,2013,ROSS 308,AMP-A3,peptide,60,747.92,33.52,53.48,1.60
 3,Choi et al.,2013,ROSS 308,AMP-A3,peptide,90,765.98,34.38,54.10,1.57
 4,Choi et al.,2013,ROSS 308,free,free,0,803.99,36.19,55.95,1.55
-4,Choi et al.,2013,ROSS 308,agp,agp,15,857.00,38.71,56.95,1.47
 4,Choi et al.,2013,ROSS 308,AMP-P5,peptide,40,821.00,37.00,56.52,1.53
 4,Choi et al.,2013,ROSS 308,AMP-P5,peptide,60,836.96,37.76,56.71,1.50
 5,Abdel-Latif et al.,2017,ROSS 308,free,free,0,774.33,34.91,48.73,1.41
@@ -27,7 +24,6 @@ study,author,year,broiler,peptide,treatment,level,bw,adg,dfi,fcr
 6,Abdollahi et al.,2017,ROSS 308,soybean bioactive peptide,peptide,5000,"1,041.00",47.48,59.86,1.26
 6,Abdollahi et al.,2017,ROSS 308,soybean bioactive peptide,peptide,6000,"1,031.00",47.00,58.57,1.25
 7,Ma et al.,2019,Arbor Acres,free,free,0,704.95,31.46,51.38,1.63
-7,Ma et al.,2019,Arbor Acres,agp,agp,10,753.88,33.79,48.70,1.44
 7,Ma et al.,2019,Arbor Acres,plectasin,peptide,100,717.97,32.08,46.70,1.44
 7,Ma et al.,2019,Arbor Acres,plectasin,peptide,200,709.99,31.70,45.64,1.44
 8,Osho et al.,2019,Cobb 500,free,free,0,874.40,39.67,58.90,1.48
